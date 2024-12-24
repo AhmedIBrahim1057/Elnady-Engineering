@@ -1,0 +1,27 @@
+header .navbar-brand img{
+    max-height: 60px;
+}
+header.sticky .navbar-brand img{
+    max-height: 50px;
+}
+header.sticky .navbar-brand{
+    padding: 15px 0px;
+}
+header .navbar-brand{
+    padding: 20px 0px;
+}
+footer .footer-logo img{
+    max-height: 65px;
+}
+.text-dark-slate-blue{
+ color: #001556
+}
+
+.custom-feature-box{
+    min-height: 334px !important;
+}
+
+.custom-feature-box-2{
+    min-height: 100% !important;
+
+}
