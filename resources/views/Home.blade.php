@@ -122,10 +122,10 @@
         <div class="container">
             <div class="row align-items-center justify-content-center mb-6 text-center text-lg-start">
                 <div class="col-xl-5 col-lg-5 md-mb-20px" data-anime='{ "translateX": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                    <h4 class="text-dark-gray fw-700 mb-0 ls-minus-1px ">Why choose us as your accountant consultant?</h4>
+                    <h4 class="text-dark-gray fw-700 mb-0 ls-minus-1px ">Our Products & Services</h4>
                 </div>
                 <div class="col-xl-5 col-lg-5 last-paragraph-no-margin md-mb-30px" data-anime='{ "translateX": [-50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                    <p class="w-90 xl-w-100 md-w-80 sm-w-100 md-mx-auto">We put a strong focus on the needs of your business to figure out solutions that best fits your demand.</p>
+                    {{-- <p class="w-90 xl-w-100 md-w-80 sm-w-100 md-mx-auto">We put a strong focus on the needs of your business to figure out solutions that best fits your demand.</p> --}}
                 </div>
                 <div class="col-xl-2 col-lg-2 d-flex justify-content-center justify-content-lg-end" data-anime='{ "el": "childs", "translateX": [30, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'> 
                     <!-- start slider navigation -->
